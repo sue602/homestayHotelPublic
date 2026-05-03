@@ -16,7 +16,7 @@
           @open="handleOpen"
           @close="handleClose"
         >
-          <el-menu-item index="/back/dashboard">
+          <el-menu-item index="/dashboard">
             <el-icon>
               <Promotion />
             </el-icon>
