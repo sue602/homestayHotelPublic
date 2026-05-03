@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
-import '@/router/permission.ts'
+import '@/router/permission'
 // import '@/router/permission.js'
 import store from './store'
 // 全局css样式

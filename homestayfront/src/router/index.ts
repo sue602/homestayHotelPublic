@@ -61,7 +61,7 @@ const routes: Array<RouteRecordRaw> = [
       {
         path: '/sys/menu',
         name: '菜单管理',
-        component: () => import('@/views/sys/munu/SysMenuView.vue')
+        component: () => import('@/views/sys/menu/SysMenuView.vue')
       },
       {
         path: '/sys/role',
